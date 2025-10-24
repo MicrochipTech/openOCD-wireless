@@ -1,0 +1,3 @@
+[submodule "source/openocd"]
+	path = source/openocd
+	url = https://github.com/openocd-org/openocd.git
