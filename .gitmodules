@@ -1,3 +1,7 @@
 [submodule "source/openocd"]
 	path = source/openocd
 	url = https://github.com/openocd-org/openocd.git
+[submodule "Source_Code/openocd"]
+	path = Source_Code/openocd
+	url = https://github.com/DineshArasu-Microchip/openocd.git
+	branch = master
