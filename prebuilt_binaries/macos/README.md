@@ -1,0 +1,1 @@
+OpenOCD binary compiled for Apple Silicon with support for WBZ45x. Compiled from source [here.](https://github.com/MicrochipTech/openOCD-wireless.git)
